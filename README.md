@@ -111,9 +111,9 @@ DeepShield/
 
 ## 👩‍💻 Developer
 
-**Anushka Bisht**
-Graphic Era University, Dehradun
-B.Tech Computer Science
+**ANUSHKA BISHT**
+Graphic Era Hill University, Dehradun
+B.Tech Computer Science Engineering
 
 ---
 
